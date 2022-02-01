@@ -1,0 +1,30 @@
+.card{
+    margin-left: 95px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:300px ;
+    width: 300px;
+    color: black;
+    padding:10px;
+    background-color: white;
+    border-radius:5px;
+}
+.desc{
+    font-size:14px;
+}
+
+.slct{
+    height:30px;
+    width: 100px;
+    text-align: center;
+    color:white;
+    background-color:rgb(38, 75, 238) ;
+    margin-top:150px;
+    border-radius: 5px;
+}
+
+.op{
+    color: black;
+    background-color: white;
+  
+}
